@@ -1,0 +1,1 @@
+A streaming video player made using Nodejs.It uses filestream module to pipe the file to the video component.
